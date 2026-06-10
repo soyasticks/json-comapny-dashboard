@@ -1,0 +1,30 @@
+{
+  "company": {
+    "name": "TechNova Solutions",
+    "industry": "Software Development",
+    "employees": 250,
+    "revenue": "₹12 Crore"
+  },
+  "metrics": [
+    {
+      "title": "Client Satisfaction",
+      "value": "95%"
+    }
+  ],
+  "departments": [
+    "Development",
+    "AI Research"
+  ],
+  "projects": [
+    {
+      "name": "AI Chatbot",
+      "status": "Completed"
+    }
+  ],
+  "swot": {
+    "strengths": ["Strong R&D"],
+    "weaknesses": ["Limited Reach"],
+    "opportunities": ["AI Growth"],
+    "threats": ["Competition"]
+  }
+}
